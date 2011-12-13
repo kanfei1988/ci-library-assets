@@ -1,1 +1,2 @@
 CodeIgniter的一个的Assets类，用于在控制器中动态添加js和css文件。
+添加一些内容
